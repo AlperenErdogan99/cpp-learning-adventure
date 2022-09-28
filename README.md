@@ -1,4 +1,4 @@
-# cpp-examples
+# CPP Learning Adventure
 This repository contains example codes and notes about the my Cpp Learning Adventure. 
 
 - __cpp\-examples__
