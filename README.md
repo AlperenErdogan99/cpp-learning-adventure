@@ -1,7 +1,7 @@
 # CPP Learning Adventure
 This repository contains example codes and notes about the my Cpp Learning Adventure. 
 
-- __cpp\-examples__
+- __cpp\-learning\-adventure__
    - [LICENSE](LICENSE)
    - [README.md](README.md)
    - __data\-structures__
@@ -15,7 +15,14 @@ This repository contains example codes and notes about the my Cpp Learning Adven
          - [main.out](data-structures/vector/build/main.out)
        - __src__
          - [main.cpp](data-structures/vector/src/main.cpp)
-
+   - __leet\-code__
+     - __Remove\-Element__
+       - __build__
+         - [main.out](leet-code/Remove-Element/build/main.out)
+       - __question__
+         - [question](leet-code/Remove-Element/question/question)
+       - __src__
+         - [main.cpp](leet-code/Remove-Element/src/main.cpp)
 
 * Note: Use these commands for examples.
 
