@@ -23,6 +23,13 @@ This repository contains example codes and notes about the my Cpp Learning Adven
          - [question](leet-code/Remove-Element/question/question)
        - __src__
          - [main.cpp](leet-code/Remove-Element/src/main.cpp)
+     - __Two\-Sum__
+       - __build__
+         - [main.out](leet-code/Two-Sum/build/main.out)
+       - __question__
+         - [question](leet-code/Two-Sum/question/question)
+       - __src__
+         - [main.cpp](leet-code/Two-Sum/src/main.cpp)
 
 * Note: Use these commands for examples.
 
