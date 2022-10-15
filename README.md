@@ -2,6 +2,7 @@
 This repository contains example codes and notes about the my Cpp Learning Adventure. 
 
 Topics:
+
     - Algorithms in LeetCode
         - Remove Element
         - Two Sum
